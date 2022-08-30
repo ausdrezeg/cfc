@@ -1,4 +1,22 @@
 {
+"promotionRoutes" : {
+    "B10-II" : "B10-I",
+    "B12-II" : "B12-I",
+    "P12-II" : "P12-I",
+    "SEC-II" : "SEC-I",
+    "ACC-II" : "ACC-I",
+    "IVY-II" : "IVY-I"
+  },
+  "baseYear" : 2022,
+  "relegationRoutes" : {
+    "B10-I" : "B10-II",
+    "B12-I" : "B12-II",
+    "P12-I" : "P12-II",
+    "SEC-I" : "SEC-II",
+    "ACC-I" : "ACC-II",
+    "IVY-I" : "IVY-II"
+  },
+	"bowlGames": ["Rose Bowl", "Peach Bowl", "Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Citrus Bowl", "Belk Bowl", "Alamo Bowl"],
 	"conferences": [{
 		"confName": "SEC-I",
 		"confFullName": "Southeastern - I",
@@ -320,6 +338,70 @@
 			"rival": "ARIZ"
 		}]
 	}, {
+		"confName": "IVY-I",
+		"confFullName": "Ivy League - I",
+		"confTeams": [{
+			"name": "Yale",
+			"abbreviation": "YAL",
+			"prestige": "70",
+			"state": "Connecticut",
+			"rival": "HVD"
+		}, {
+			"name": "Harvard",
+			"abbreviation": "HVD",
+			"prestige": "70",
+			"state": "Massachusetts",
+			"rival": "YAL"
+		}, {
+			"name": "Columbia",
+			"abbreviation": "COL",
+			"prestige": "70",
+			"state": "New York",
+			"rival": "CORN"
+		}, {
+			"name": "Cornell",
+			"abbreviation": "CORN",
+			"prestige": "50",
+			"state": "New York",
+			"rival": "COL"
+		}, {
+			"name": "Princeton",
+			"abbreviation": "PRN",
+			"prestige": "50",
+			"state": "New Jersey",
+			"rival": "PENN"
+		}, {
+			"name": "Pennsylvania",
+			"abbreviation": "PENN",
+			"prestige": "65",
+			"state": "Pennsylvania",
+			"rival": "PRN"
+		}, {
+			"name": "Dartmouth",
+			"abbreviation": "DART",
+			"prestige": "65",
+			"state": "New Hampshire",
+			"rival": "BRO"
+		}, {
+			"name": "Brown",
+			"abbreviation": "BRO",
+			"prestige": "55",
+			"state": "Rhode Island",
+			"rival": "DART"
+		}, {
+			"name": "Chicago",
+			"abbreviation": "UCHI",
+			"prestige": "60",
+			"state": "Illinois",
+			"rival": "MIT"
+		}, {
+			"name": "Mass Tech",
+			"abbreviation": "MIT",
+			"prestige": "50",
+			"state": "Massachusette",
+			"rival": "UCHI"
+		}]
+	}, {
 		"confName": "SEC-II",
 		"confFullName": "Southeastern - II",
 		"confTeams": [{
@@ -638,6 +720,70 @@
 			"prestige": "50",
 			"state": "Idaho",
 			"rival": "WYM"
+		}]
+	}, {
+		"confName": "IVY-II",
+		"confFullName": "Ivy League - II",
+		"confTeams": [{
+			"name": "Caltech",
+			"abbreviation": "CLT",
+			"prestige": "95",
+			"state": "California",
+			"rival": "PMN"
+		}, {
+			"name": "Johns Hopkins",
+			"abbreviation": "JHP",
+			"prestige": "90",
+			"state": "Maryland",
+			"rival": "TFT"
+		}, {
+			"name": "Tufts",
+			"abbreviation": "TFT",
+			"prestige": "80",
+			"state": "Massachusetts",
+			"rival": "JHP"
+		}, {
+			"name": "Amherst",
+			"abbreviation": "AMS",
+			"prestige": "75",
+			"state": "Massachusetts",
+			"rival": "WIL"
+		}, {
+			"name": "Carnegie Mellon",
+			"abbreviation": "CARN",
+			"prestige": "80",
+			"state": "Pennsylvania",
+			"rival": "GRN"
+		}, {
+			"name": "Georgetown",
+			"abbreviation": "GTWN",
+			"prestige": "85",
+			"state": "Washington DC",
+			"rival": "NYU"
+		}, {
+			"name": "New York",
+			"abbreviation": "NYU",
+			"prestige": "65",
+			"state": "Mississippi",
+			"rival": "GTWN"
+		}, {
+			"name": "Grinnell",
+			"abbreviation": "GRN",
+			"prestige": "70",
+			"state": "Iowa",
+			"rival": "CARN"
+		}, {
+			"name": "Williams",
+			"abbreviation": "WILL",
+			"prestige": "80",
+			"state": "Massachusetts",
+			"rival": "AMS"
+		}, {
+			"name": "Pomona",
+			"abbreviation": "PMN",
+			"prestige": "50",
+			"state": "California",
+			"rival": "CLT"
 		}]
 	}]
 }
