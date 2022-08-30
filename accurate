@@ -2,7 +2,7 @@
   "conferences" : [{
       "confTeams" : [{
           "abbreviation" : "ALA",
-          "prestige" : "95",
+          "prestige" : "90",
           "hexColor" : "#9E1B32",
           "rival" : [
             "AUB"
