@@ -1,0 +1,1048 @@
+{
+  "conferences" : [{
+      "confTeams" : [{
+          "abbreviation" : "ALA",
+          "prestige" : "95",
+          "hexColor" : "#9E1B32",
+          "rival" : [
+            "AUB"
+          ]},
+          "name" : "Alabama",
+          "state" : "Alabama"
+        },
+{
+          "abbreviation" : "AUB",
+          "prestige" : "85",
+          "hexColor" : "#0C2340",
+          "rival" : [
+            "ALA"
+          ]},
+          "name" : "Auburn",
+          "state" : "Alaba,a"
+        },
+{
+          "abbreviation" : "GEO",
+          "prestige" : "90",
+          "hexColor" : "#BA0C2F",
+          "rival" : [
+            "FLO"
+          ]},
+          "name" : "Georgia",
+          "state" : "Georgia"
+        },
+{
+          "abbreviation" : "FLO",
+          "prestige" : "85",
+          "hexColor" : "#FA4616",
+          "rival" : [
+            "GEO"
+          ]},
+          "name" : "Florida",
+          "state" : "Florida"
+        },
+{
+          "abbreviation" : "LSU",
+          "prestige" : "80",
+          "hexColor" : "#461D7C",
+          "rival" : [
+            "TAMU"
+          ]},
+          "name" : "Louisiana State",
+          "state" : "Louisiana"
+        },
+{
+          "abbreviation" : "TAMU",
+          "prestige" : "80",
+          "hexColor" : "#500000",
+          "rival" : [
+            "LSU"
+          ]},
+          "name" : "Texas A&M",
+          "state" : "Texas"
+        },
+{
+          "abbreviation" : "OLM",
+          "prestige" : "92",
+          "hexColor" : "#14213D",
+          "rival" : [
+            "MST"
+          ]},
+          "name" : "Ole Miss",
+          "state" : "Mississippi"
+        },
+{
+          "abbreviation" : "MST",
+          "prestige" : "92",
+          "hexColor" : "#660000",
+          "rival" : [
+            "OLM"
+          ]},
+          "name" : "Mississippi State",
+          "state" : "Mississippi"
+        },
+{
+          "abbreviation" : "KEN",
+          "prestige" : "92",
+          "hexColor" : "#0033A0",
+          "rival" : [
+            "TEN"
+          ]},
+          "name" : "Kentucky",
+          "state" : "Kentucky"
+        },
+{
+          "abbreviation" : "TEN",
+          "prestige" : "92",
+          "hexColor" : "#FF8200",
+          "rival" : [
+            "KEN"
+          ]},
+          "name" : "Tennessee",
+          "state" : "Tennessee"
+        }]
+      "confFullName" : "Southeastern-I",
+      "confPrestige" : "90",
+      "confName" : "SEC-I"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]
+      "confFullName" : "Southern",
+      "confPrestige" : "93",
+      "confName" : "SOUTH"
+},
+{
+      "confTeams" : [{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        },
+{
+          "abbreviation" : "ARK",
+          "prestige" : "92",
+          "hexColor" : "#EA4B0F",
+          "rival" : [
+            "LEX"
+          ]},
+          "name" : "Arkansas",
+          "state" : "Arkansas"
+        }]},
+
