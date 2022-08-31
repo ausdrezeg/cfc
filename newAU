@@ -79,8 +79,8 @@
         {
             "name": "Milwaukee",
             "state": "Wisconsin",
-            "abbreviation": "MIL",
-            "rival": ["TWI"],
+            "abbreviation": "MILW",
+            "rival": ["TWIN"],
             "rivalryNames": {},
             "prestige": "90",
             "hexColor": "#841617"
@@ -88,8 +88,8 @@
         {
             "name": "Twin Cities",
             "state": "Minnesota",
-            "abbreviation": "TWI",
-            "rival": ["MIL"],
+            "abbreviation": "TWIN",
+            "rival": ["MILW"],
             "rivalryNames": {},
             "prestige": "90",
             "hexColor": "#FF8200"
@@ -98,7 +98,7 @@
             "name": "Erie",
             "state": "Pennsylvania",
             "abbreviation": "ERIE",
-            "rival": ["CLE"],
+            "rival": ["CLEV"],
             "rivalryNames": {
                 "OKLA": "Red River Shootout"
             },
@@ -108,7 +108,7 @@
         {
             "name": "Cleveland",
             "state": "Ohio",
-            "abbreviation": "CLE",
+            "abbreviation": "CLEV",
             "rival": ["ERIE"],
             "rivalryNames": {},
             "prestige": "85",
@@ -125,7 +125,7 @@
               "name": "Maine",
               "state": "Maine",
               "abbreviation": "MNE",
-              "rival": ["CRD"],
+              "rival": ["CORD"],
               "rivalryNames": {},
               "prestige": "85",
               "hexColor": "#13294B"
@@ -133,7 +133,7 @@
           {
                 "name": "Concord State",
                 "state": "New Hampshire",
-                "abbreviation": "CRD",
+                "abbreviation": "CORD",
                 "rival": ["MNE"],
                 "rivalryNames": {},
                 "prestige": "80",
@@ -160,8 +160,8 @@
               {
                   "name": "Boston",
                   "state": "Massachusetts",
-                  "abbreviation": "BOS",
-                  "rival": ["MTU"],
+                  "abbreviation": "BOST",
+                  "rival": ["MIT"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#7A0019"
@@ -169,8 +169,8 @@
               {
                   "name": "Mass Tech",
                   "state": "Massachusetts",
-                  "abbreviation": "MTU",
-                  "rival": ["BOS"],
+                  "abbreviation": "MIT",
+                  "rival": ["BOST"],
                   "rivalryNames": {},
                   "prestige": "75",
                   "hexColor": "#4E2A84"
@@ -178,8 +178,8 @@
               {
                   "name": "Delaware",
                   "state": "Delaware",
-                  "abbreviation": "DEL",
-                  "rival": ["TRN"],
+                  "abbreviation": "DLW",
+                  "rival": ["TREN"],
                   "rivalryNames": {
                       "UM": "The Game"
                   },
@@ -189,8 +189,8 @@
               {
                   "name": "Trenton",
                   "state": "New Jersey",
-                  "abbreviation": "TRN",
-                  "rival": ["DEL"],
+                  "abbreviation": "TREN",
+                  "rival": ["DLW"],
                   "rivalryNames": {},
                   "prestige": "85",
                   "hexColor": "#041E42"
@@ -199,7 +199,7 @@
                   "name": "Vermont",
                   "state": "Vermont",
                   "abbreviation": "VMT",
-                  "rival": ["NHU"],
+                  "rival": ["UNH"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#CEB888"
@@ -207,7 +207,7 @@
               {
                   "name": "New Haven",
                   "state": "Connectivut",
-                  "abbreviation": "NHU",
+                  "abbreviation": "UNH",
                   "rival": ["VMT"],
                   "rivalryNames": {},
                   "prestige": "85",
@@ -223,7 +223,7 @@
             {
                 "name": "Virginia",
                 "state": "Virginia",
-                "abbreviation": "VIR",
+                "abbreviation": "VIRG",
                 "rival": ["DCAM"],
                 "rivalryNames": {},
                 "prestige": "95",
@@ -233,7 +233,7 @@
                   "name": "District of Columbia A&M",
                   "state": "Washington DC",
                   "abbreviation": "DCAM",
-                  "rival": ["VIR"],
+                  "rival": ["VIRG"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#003087"
@@ -241,7 +241,7 @@
               {
                   "name": "West Carolina",
                   "state": "North Carolina",
-                  "abbreviation": "WCU",
+                  "abbreviation": "WCAR",
                   "rival": ["CAR"],
                   "rivalryNames": {},
                   "prestige": "85",
@@ -251,7 +251,7 @@
                   "name": "Carolina",
                   "state": "South Carolina",
                   "abbreviation": "CAR",
-                  "rival": ["WCU"],
+                  "rival": ["WCAR"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#B3A369"
@@ -295,8 +295,8 @@
               {
                   "name": "New Orleans",
                   "state": "Louisiana",
-                  "abbreviation": "UNO",
-                  "rival": ["JSU"],
+                  "abbreviation": "NORL",
+                  "rival": ["JAX"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#630031"
@@ -304,8 +304,8 @@
               {
                   "name": "Jackson State",
                   "state": "Mississippi",
-                  "abbreviation": "JSU",
-                  "rival": ["UNO"],
+                  "abbreviation": "JAX",
+                  "rival": ["NORL"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#9E7E38"
@@ -321,7 +321,7 @@
                 "name": "East Nebraska",
                 "state": "Nebraska",
                 "abbreviation": "ENU",
-                "rival": ["ITU"],
+                "rival": ["ITECH"],
                 "rivalryNames": {},
                 "prestige": "85",
                 "hexColor": "#154734"
@@ -329,7 +329,7 @@
               {
                   "name": "Iowa Tech",
                   "state": "Iowa",
-                  "abbreviation": "ITU",
+                  "abbreviation": "ITECH",
                   "rival": ["ENU"],
                   "rivalryNames": {},
                   "prestige": "85",
@@ -339,7 +339,7 @@
                   "name": "Wichita",
                   "state": "Kansas",
                   "abbreviation": "WICH",
-                  "rival": ["TOP"],
+                  "rival": ["TPKA"],
                   "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#C8102E"
@@ -347,7 +347,7 @@
               {
                   "name": "Topeka",
                   "state": "Kansas",
-                  "abbreviation": "TOP",
+                  "abbreviation": "TPKA",
                   "rival": ["WICH"],
                   "rivalryNames": {},
                   "prestige": "85",
@@ -435,7 +435,7 @@
               {
                 "name": "Durango",
                 "state": "Colorado",
-                "abbreviation": "DUR",
+                "abbreviation": "DRNG",
                 "rival": ["ALB"],
                 "rivalryNames": {},
                 "prestige": "90",
@@ -445,7 +445,7 @@
                 "name": "Albuquerque",
                 "state": "New Mexico",
                 "abbreviation": "ALB",
-                "rival": ["DUR"],
+                "rival": ["DRNG"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#DC4405"
@@ -454,7 +454,7 @@
                 "name": "Oklahoma Tech",
                 "state": "Oklahoma",
                 "abbreviation": "OKLT",
-                "rival": ["PAN"],
+                "rival": ["PNDL"],
                 "rivalryNames": {},
                 "prestige": "85",
                 "hexColor": "#8C1515"
@@ -462,7 +462,7 @@
               {
                 "name": "Panhandle State",
                 "state": "Oklahoma",
-                "abbreviation": "PAN",
+                "abbreviation": "PHDL",
                 "rival": ["OKLT"],
                 "rivalryNames": {},
                 "prestige": "90",
@@ -471,7 +471,7 @@
               {
                 "name": "El Paso",
                 "state": "Texas",
-                "abbreviation": "ELP",
+                "abbreviation": "PASO",
                 "rival": ["AUST"],
                 "rivalryNames": {},
                 "prestige": "80",
@@ -481,7 +481,7 @@
                 "name": "Austin",
                 "state": "Texas",
                 "abbreviation": "AUST",
-                "rival": ["ELP"],
+                "rival": ["PASO"],
                 "rivalryNames": {},
                 "prestige": "85",
                 "hexColor": "#990000"
@@ -489,8 +489,8 @@
               {
                 "name": "Rio Grande",
                 "state": "Texas",
-                "abbreviation": "RGU",
-                "rival": ["WTU"],
+                "abbreviation": "RIO",
+                "rival": ["WTEX"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#4B2E83"
@@ -498,8 +498,8 @@
               {
                 "name": "West Texas",
                 "state": "Texas",
-                "abbreviation": "WTU",
-                "rival": ["RGU"],
+                "abbreviation": "WTEX",
+                "rival": ["RIO"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#981E32"
@@ -541,7 +541,7 @@
               {
                 "name": "Eureka",
                 "state": "California",
-                "abbreviation": "ERK",
+                "abbreviation": "EURK",
                 "rival": ["NCAL"],
                 "rivalryNames": {},
                 "prestige": "75",
@@ -551,7 +551,7 @@
                 "name": "Northern California",
                 "state": "California",
                 "abbreviation": "NCAL",
-                "rival": ["ERK"],
+                "rival": ["EURK"],
                 "rivalryNames": {},
                 "prestige": "85",
                 "hexColor": "#FFCD00"
@@ -559,7 +559,7 @@
               {
                 "name": "Sacramento",
                 "state": "California",
-                "abbreviation": "SACT",
+                "abbreviation": "SACR",
                 "rival": ["CSF"],
                 "rivalryNames": {},
                 "prestige": "80",
@@ -586,8 +586,8 @@
               {
                 "name": "Oakland State",
                 "state": "California",
-                "abbreviation": "OSU",
-                "rival": ["USD"],
+                "abbreviation": "OAK",
+                "rival": ["DIEGO"],
                 "rivalryNames": {},
                 "prestige": "85",
                 "hexColor": "#CE1126"
@@ -595,8 +595,8 @@
               {
                 "name": "San Diego",
                 "state": "California",
-                "abbreviation": "USD",
-                "rival": ["OSU"],
+                "abbreviation": "DIEGO",
+                "rival": ["OAK"],
                 "rivalryNames": {},
                 "prestige": "75",
                 "hexColor": "#866D4B"
@@ -611,7 +611,7 @@
             {
                 "name": "Arkansas State",
                 "state": "Arkansas",
-                "abbreviation": "AKSU",
+                "abbreviation": "ARKS",
                 "rival": ["LRU"],
                 "rivalryNames": {},
                 "prestige": "75",
@@ -621,7 +621,7 @@
                 "name": "Little Rock",
                 "state": "Arkansas",
                 "abbreviation": "LRU",
-                "rival": ["AKSU"],
+                "rival": ["ARKS"],
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#CC092F"
@@ -629,8 +629,8 @@
               {
                 "name": "South Arkansas",
                 "state": "Arkansas",
-                "abbreviation": "USA",
-                "rival": ["SVPT"],
+                "abbreviation": "SARK",
+                "rival": ["SHRV"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#006F71"
@@ -638,8 +638,8 @@
               {
                 "name": "Shreveport",
                 "state": "Louisiana",
-                "abbreviation": "SVPT",
-                "rival": ["USA"],
+                "abbreviation": "SHRV",
+                "rival": ["SARK"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#011E41"
@@ -648,7 +648,7 @@
                 "name": "North Louisiana",
                 "state": "Louisiana",
                 "abbreviation": "UNL",
-                "rival": ["ETU"],
+                "rival": ["ETEX"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#0039A6"
@@ -656,7 +656,7 @@
               {
                 "name": "East Texas",
                 "state": "Texas",
-                "abbreviation": "ETU",
+                "abbreviation": "ETEX",
                 "rival": ["ULM"],
                 "rivalryNames": {},
                 "prestige": "75",
@@ -684,7 +684,7 @@
                 "name": "Tulsa",
                 "state": "Oklahoma",
                 "abbreviation": "TULS",
-                "rival": ["USO"],
+                "rival": ["SOKL"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#FFAB00"
@@ -692,7 +692,7 @@
               {
                 "name": "South Oklahoma",
                 "state": "Oklahoma",
-                "abbreviation": "USO",
+                "abbreviation": "SOKL",
                 "rival": ["TULS"],
                 "rivalryNames": {},
                 "prestige": "70",
@@ -709,7 +709,7 @@
                 "name": "Flagstaff",
                 "state": "Arizona",
                 "abbreviation": "FLAG",
-                "rival": ["ALB"],
+                "rival": ["ALBU"],
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#041E42"
@@ -717,7 +717,7 @@
               {
                 "name": "Albuquerque",
                 "state": "New Mexico",
-                "abbreviation": "ALB",
+                "abbreviation": "ALBU",
                 "rival": ["FLAG"],
                 "rivalryNames": {},
                 "prestige": "65",
@@ -744,7 +744,7 @@
               {
                 "name": "Idaho State",
                 "state": "Idaho",
-                "abbreviation": "IDST",
+                "abbreviation": "IDHO",
                 "rival": ["MSLA"],
                 "rivalryNames": {},
                 "prestige": "65",
@@ -754,7 +754,7 @@
                 "name": "Missoula",
                 "state": "Montana",
                 "abbreviation": "MSLA",
-                "rival": ["ISDT"],
+                "rival": ["IDHO"],
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#002664"
@@ -763,7 +763,7 @@
                 "name": "East Nevada",
                 "state": "Nevada",
                 "abbreviation": "ENU",
-                "rival": ["UTU"],
+                "rival": ["UTECH"],
                 "rivalryNames": {},
                 "prestige": "60",
                 "hexColor": "#B61E2E"
@@ -771,7 +771,7 @@
               {
                 "name": "Utah Tech",
                 "state": "Utah",
-                "abbreviation": "UTU",
+                "abbreviation": "UTECH",
                 "rival": ["ENU"],
                 "rivalryNames": {},
                 "prestige": "65",
@@ -781,7 +781,7 @@
                 "name": "Deseret",
                 "state": "Utah",
                 "abbreviation": "DES",
-                "rival": ["SLU"],
+                "rival": ["SLAKE"],
                 "rivalryNames": {},
                 "prestige": "60",
                 "hexColor": "#15397F"
@@ -789,7 +789,7 @@
               {
                 "name": "Salt Lake",
                 "state": "Utah",
-                "abbreviation": "SLU",
+                "abbreviation": "SLAKE",
                 "rival": ["DES"],
                 "rivalryNames": {},
                 "prestige": "65",
@@ -805,7 +805,7 @@
             {
                 "name": "South Indiana",
                 "state": "Indiana",
-                "abbreviation": "USI",
+                "abbreviation": "SIND",
                 "rival": ["CINCY"],
                 "rivalryNames": {},
                 "prestige": "70",
@@ -815,7 +815,7 @@
                 "name": "Cincinnati",
                 "state": "Massachusetts",
                 "abbreviation": "CINCY",
-                "rival": ["USI"],
+                "rival": ["SIND"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#98002E"
@@ -824,7 +824,7 @@
                 "name": "Canton",
                 "state": "Ohio",
                 "abbreviation": "CANT",
-                "rival": ["UNO"],
+                "rival": ["NOROH"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#BA9B37"
@@ -832,7 +832,7 @@
               {
                 "name": "Louisville",
                 "state": "Kentucky",
-                "abbreviation": "LOU",
+                "abbreviation": "LOUIS",
                 "rival": ["STL"],
                 "rivalryNames": {},
                 "prestige": "85",
@@ -842,7 +842,7 @@
                 "name": "St. Louis",
                 "state": "Missouri",
                 "abbreviation": "STL",
-                "rival": ["LOU"],
+                "rival": ["LOUIS"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#AD0000"
@@ -868,7 +868,7 @@
               {
                 "name": "Northern Ohio",
                 "state": "Ohio",
-                "abbreviation": "UNO",
+                "abbreviation": "NOROH",
                 "rival": ["CANT"],
                 "rivalryNames": {},
                 "prestige": "90",
@@ -902,7 +902,7 @@
             {
                 "name": "Superior",
                 "state": "Michigan",
-                "abbreviation": "SUP",
+                "abbreviation": "SUPR",
                 "rival": ["MARQ"],
                 "rivalryNames": {},
                 "prestige": "65",
@@ -912,7 +912,7 @@
                 "name": "Marquette",
                 "state": "Michigan",
                 "abbreviation": "MARQ",
-                "rival": ["SUP"],
+                "rival": ["SUPR"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#003366"
@@ -920,7 +920,7 @@
               {
                 "name": "Duluth",
                 "state": "Minnesota",
-                "abbreviation": "FUL",
+                "abbreviation": "DUL",
                 "rival": ["GFU"],
                 "rivalryNames": {},
                 "prestige": "70",
@@ -1036,7 +1036,7 @@
                 "name": "Oregon State",
                 "state": "Oregon",
                 "abbreviation": "ORST",
-                "rival": ["USU"],
+                "rival": ["PORT"],
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#003366"
@@ -1133,7 +1133,7 @@
                 "name": "Ohio River",
                 "state": "Ohio",
                 "abbreviation": "OHRV",
-                "rival": ["TSST"],
+                "rival": ["TNSE"],
                 "rivalryNames": {},
                 "prestige": "75",
                 "hexColor": "#0033A0"
@@ -1141,7 +1141,7 @@
               {
                 "name": "Tennessee State",
                 "state": "Tennessee",
-                "abbreviation": "TSST",
+                "abbreviation": "TNSE",
                 "rival": ["OHRV"],
                 "rivalryNames": {},
                 "prestige": "70",
@@ -1168,7 +1168,7 @@
               {
                 "name": "Virginia A&T",
                 "state": "Virginia",
-                "abbreviation": "VAT",
+                "abbreviation": "UVAT",
                 "rival": ["WVST"],
                 "rivalryNames": {},
                 "prestige": "70",
@@ -1178,7 +1178,7 @@
                 "name": "West Virginia State",
                 "state": "West Virginia",
                 "abbreviation": "WVST",
-                "rival": ["VAT"],
+                "rival": ["UVAT"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#F15A22"
