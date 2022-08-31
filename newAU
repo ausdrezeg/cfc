@@ -1,26 +1,26 @@
 {
   "promotionRoutes": {
-    "NORTH": "LAKES",
-    "ROCKY": "NEWENG",
-    "APPA": "CONFED",
-    "RUST": "PRARIE",
-    "TEXARK": "SWEST",
-    "CASCA": "PACIF"
+    "NRTH": "LAKE",
+    "ROCK": "ENGL",
+    "APPA": "CONF",
+    "RUST": "PRAR",
+    "TARK": "SWEST",
+    "CASC": "PACF"
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "LAKES": "NORTH",
-    "NEWENG": "ROCKY",
-    "CONFED": "APPA",
-    "PRARIE": "RUST",
-    "SWEST": "TEXARK",
-    "PACIF": "CASCA"
+    "LAKE": "NRTH",
+    "ENGL": "ROCK",
+    "CONF": "APPA",
+    "PRAR": "RUST",
+    "SWEST": "TARK",
+    "PACF": "CASC"
   },
   "conferences": [
     {
       "confFullName": "Great Lakes",
       "confPrestige": "95",
-      "confName": "LAKES",
+      "confName": "LAKE",
       "confTeams": [
         {
           "name": "Detroit",
@@ -119,7 +119,7 @@
     {
         "confFullName": "New England",
         "confPrestige": "95",
-        "confName": "NEWENG",
+        "confName": "ENGL",
         "confTeams": [
             {
               "name": "Maine",
@@ -218,7 +218,7 @@
     {
         "confFullName": "Confederate",
         "confPrestige": "90",
-        "confName": "CONFED",
+        "confName": "CONF",
         "confTeams": [
             {
                 "name": "Virginia",
@@ -315,7 +315,7 @@
     {
         "confFullName": "Prarieland",
         "confPrestige": "90",
-        "confName": "PRARIE",
+        "confName": "PRAR",
         "confTeams": [
             {
                 "name": "East Nebraska",
@@ -509,7 +509,7 @@
     {
         "confFullName": "Pacific",
         "confPrestige": "85",
-        "confName": "PACIF",
+        "confName": "PACF",
         "confTeams": [
             {
                 "name": "Reno",
@@ -606,7 +606,7 @@
     {
         "confFullName": "Texarkana",
         "confPrestige": "70",
-        "confName": "TEXARK",
+        "confName": "TARK",
         "confTeams": [
             {
                 "name": "Arkansas State",
@@ -703,7 +703,7 @@
     {
         "confFullName": "Rocky Mountain",
         "confPrestige": "65",
-        "confName": "ROCKY",
+        "confName": "ROCK",
         "confTeams": [
             {
                 "name": "Flagstaff",
@@ -897,7 +897,7 @@
     {
         "confFullName": "Far North",
         "confPrestige": "65",
-        "confName": "NORTH",
+        "confName": "NRTH",
         "confTeams": [
             {
                 "name": "Superior",
@@ -994,7 +994,7 @@
     {
         "confFullName": "Cascadia",
         "confPrestige": "70",
-        "confName": "CASCA",
+        "confName": "CASC",
         "confTeams": [
             {
                 "name": "Northern Idaho",
