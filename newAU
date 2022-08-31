@@ -1,18 +1,18 @@
 {
   "promotionRoutes": {
     "NORTH": "LAKES",
-    "ROCKY": "NWENG",
-    "APP": "CONF",
-    "RUST": "PRAR",
+    "ROCKY": "NEWENG",
+    "APPA": "CONFED",
+    "RUST": "PRARIE",
     "TEXARK": "SWEST",
     "CASCA": "PACIF"
   },
   "baseYear": 2022,
   "relegationRoutes": {
     "LAKES": "NORTH",
-    "NWENG": "ROCKY",
-    "CONF": "APP",
-    "PRAR": "RUST",
+    "NEWENG": "ROCKY",
+    "CONFED": "APPA",
+    "PRARIE": "RUST",
     "SWEST": "TEXARK",
     "PACIF": "CASCA"
   },
@@ -119,7 +119,7 @@
     {
         "confFullName": "New England",
         "confPrestige": "95",
-        "confName": "NWENG",
+        "confName": "NEWENG",
         "confTeams": [
             {
               "name": "Maine",
@@ -218,7 +218,7 @@
     {
         "confFullName": "Confederate",
         "confPrestige": "90",
-        "confName": "CONF",
+        "confName": "CONFED",
         "confTeams": [
             {
                 "name": "Virginia",
@@ -315,7 +315,7 @@
     {
         "confFullName": "Prarieland",
         "confPrestige": "90",
-        "confName": "PRAR",
+        "confName": "PRARIE",
         "confTeams": [
             {
                 "name": "East Nebraska",
@@ -1091,7 +1091,7 @@
     {
         "confFullName": "Appalachia",
         "confPrestige": "75",
-        "confName": "APP",
+        "confName": "APPA",
         "confTeams": [
             {
                 "name": "Huntsville",
