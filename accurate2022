@@ -1,20 +1,20 @@
 {
 "promotionRoutes" : {
-    "B10-II" : "B10-I",
-    "B12-II" : "B12-I",
-    "P12-II" : "P12-I",
-    "SEC-II" : "SEC-I",
-    "ACC-II" : "ACC-I",
-    "IVY-II" : "IVY-I"
+    "B10X" : "B10",
+    "B12X" : "B12",
+    "P12X" : "P12",
+    "SECX" : "SEC",
+    "ACCX" : "ACC",
+    "IVYX" : "IVY"
   },
   "baseYear" : 2022,
   "relegationRoutes" : {
-    "B10-I" : "B10-II",
-    "B12-I" : "B12-II",
-    "P12-I" : "P12-II",
-    "SEC-I" : "SEC-II",
-    "ACC-I" : "ACC-II",
-    "IVY-I" : "IVY-II"
+    "B10" : "B10X",
+    "B12" : "B12X",
+    "P12" : "P12X",
+    "SEC" : "SECX",
+    "ACC" : "ACCX",
+    "IVY" : "IVYX"
   },
 	"conferences": [{
 		"confName": "SEC",
