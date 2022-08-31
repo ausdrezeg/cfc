@@ -1,20 +1,20 @@
 {
   "promotionRoutes": {
-    "SUN": "LAKES",
-    "MAC": "B10",
-    "COL": "ACC",
-    "CUSA": "B12",
-    "MWC": "PAC",
-    "AAC": "GWC"
+    "NORTH": "LAKES",
+    "ROCKY": "NWENG",
+    "APP": "CONF",
+    "RUST": "PRAR",
+    "TEXARK": "SWEST",
+    "CASCA": "PACIF"
   },
-  "baseYear": 2014,
+  "baseYear": 2022,
   "relegationRoutes": {
-    "SEC": "LAKES",
-    "B10": "MAC",
-    "ACC": "COL",
-    "B12": "CUSA",
-    "PAC": "MWC",
-    "AAC": "GWC"
+    "LAKES": "NORTH",
+    "NWENG": "ROCKY",
+    "CONF": "APP",
+    "PRAR": "RUST",
+    "SWEST": "TEXARK",
+    "PACIF": "CASCA"
   },
   "conferences": [
     {
