@@ -16,9 +16,8 @@
     "ACC-I" : "ACC-II",
     "IVY-I" : "IVY-II"
   },
-	"bowlGames": ["Rose Bowl", "Peach Bowl", "Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Citrus Bowl", "Belk Bowl", "Alamo Bowl"],
 	"conferences": [{
-		"confName": "SEC-I",
+		"confName": "SEC",
 		"confFullName": "Southeastern - I",
 		"confTeams": [{
 			"name": "Alabama",
@@ -82,7 +81,7 @@
 			"rival": "TENN"
 		}]
 	}, {
-		"confName": "B10-I",
+		"confName": "B10",
 		"confFullName": "Big Ten - I"
 		"confTeams": [{
 			"name": "Ohio State",
@@ -146,7 +145,7 @@
 			"rival": "ILL"
 		}]
 	}, {
-		"confName": "ACC-I",
+		"confName": "ACC",
 		"confFullName": "Atlantic - I",
 		"confTeams": [{
 			"name": "Florida State",
@@ -274,7 +273,7 @@
 			"rival": "KSU"
 		}]
 	}, {
-		"confName": "PAC-I",
+		"confName": "P12",
 		"confFullName": "Pac 12 - I",
 		"confTeams": [{
 			"name": "California",
@@ -338,7 +337,7 @@
 			"rival": "ARIZ"
 		}]
 	}, {
-		"confName": "IVY-I",
+		"confName": "IVY",
 		"confFullName": "Ivy League - I",
 		"confTeams": [{
 			"name": "Yale",
@@ -402,7 +401,7 @@
 			"rival": "UCHI"
 		}]
 	}, {
-		"confName": "SEC-II",
+		"confName": "SECX",
 		"confFullName": "Southeastern - II",
 		"confTeams": [{
 			"name": "Vanderbilt",
@@ -466,7 +465,7 @@
 			"rival": "NAVY"
 		}]
 	}, {
-		"confName": "B10-II",
+		"confName": "B10X",
 		"confFullName": "Big Ten - II",
 		"confTeams": [{
 			"name": "Penn State",
@@ -530,7 +529,7 @@
 			"rival": "EMU"
 		}]
 	}, {
-		"confName": "ACC-II",
+		"confName": "ACCX",
 		"confFullName": "Atlantic - II",
 		"confTeams": [{
 			"name": "Boston College",
@@ -594,7 +593,7 @@
 			"rival": "MLD"
 		}]
 	}, {
-		"confName": "B12-II",
+		"confName": "B12X",
 		"confFullName": "Big 12 - II",
 		"confTeams": [{
 			"name": "Rice",
@@ -658,7 +657,7 @@
 			"rival": "UAB"
 		}]
 	}, {
-		"confName": "PAC-II",
+		"confName": "P12X",
 		"confFullName": "Pac 12 - II",
 		"confTeams": [{
 			"name": "Colorado",
@@ -722,7 +721,7 @@
 			"rival": "WYM"
 		}]
 	}, {
-		"confName": "IVY-II",
+		"confName": "IVYX",
 		"confFullName": "Ivy League - II",
 		"confTeams": [{
 			"name": "Caltech",
@@ -785,5 +784,44 @@
 			"state": "California",
 			"rival": "CLT"
 		}]
-	}]
+	}],
+
+"bowlGames" : [
+    "Rose Bowl",
+    "Orange Bowl",
+    "Sugar Bowl",
+    "Cotton Bowl",
+    "Peach Bowl",
+    "Fiesta Bowl",
+    "Sun Bowl",
+    "Gator Bowl",
+    "Citrus Bowl",
+    "Liberty Bowl",
+    "Independence Bowl",
+    "Holiday Bowl",
+    "Cheez-It Bowl",
+    "Las Vegas Bowl",
+    "Alamo Bowl",
+    "Music City Bowl",
+    "LendingTree Bowl",
+    "Hawaii Bowl",
+    "Armed Forces Bowl",
+    "New Orleans Bowl",
+    "Texas Bowl",
+    "Birmingham Bowl",
+    "Military Bowl",
+    "Pinstripe Bowl",
+    "Quick Lane Bowl",
+    "Boca Raton Bowl",
+    "Frisco Bowl",
+    "Cure Bowl",
+    "Fenway Bowl",
+    "Los Angeles Bowl",
+    "Arizona Bowl",
+    "Camellia Bowl",
+    "Myrtle Beach Bowl",
+    "Bahamas Bowl",
+    "Gasparilla Bowl",
+    "Bucci Bowl"
+    ]
 }
